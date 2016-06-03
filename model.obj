@@ -1,6 +1,5 @@
-# Blender3D v249 OBJ File: 
+# Blender3D v249 OBJ File: scene.blend
 # www.blender3d.org
-mtllib model.mtl
 v -1.977246 0.003589 -1.961560
 v -1.977246 0.187104 -1.961560
 v 1.984207 0.187105 -1.961560
@@ -429,129 +428,135 @@ f 19 37 104
 f 106 36 37
 f 52 44 43
 f 121 122 123
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 122 121 124
-usemtl (null)
 f 123 125 121
+usemtl DarkTurquoise
 f 126 127 128
 f 128 125 129
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 125 129 121
-usemtl (null)
+usemtl DarkTurquoise
 f 128 129 126
-usemtl SkyBlue
+usemtl LightSteelBlue
 f 130 127 126
-usemtl MediumOrchid
 f 130 126 131
-usemtl (null)
+usemtl DarkTurquoise
 f 132 130 131
+usemtl (null)
 f 121 133 124
-usemtl SkyBlue
+usemtl LightSteelBlue
 f 134 132 131
-usemtl (null)
+usemtl DarkTurquoise
 f 134 135 136
+usemtl SkyBlue
 f 136 135 137
-usemtl RoyalBlue
+usemtl LightSteelBlue
 f 137 138 136
-usemtl (null)
 f 139 140 136
+usemtl SkyBlue
 f 129 133 121
+usemtl LightSteelBlue
 f 136 138 140
+usemtl DarkTurquoise
 f 137 141 138
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 141 142 138
-usemtl RoyalBlue
 f 138 142 143
-usemtl (null)
+usemtl DarkTurquoise
 f 144 140 138
 f 144 138 145
-usemtl MediumOrchid
-f 138 143 145
 usemtl SkyBlue
+f 138 143 145
+usemtl LightSteelBlue
 f 144 145 146
-usemtl (null)
+usemtl DarkTurquoise
 f 144 146 140
+usemtl LightSteelBlue
 f 140 139 146
-usemtl RoyalBlue
+usemtl SkyBlue
 f 147 148 139
-usemtl (null)
+usemtl LightSteelBlue
 f 148 149 139
-usemtl MediumOrchid
 f 139 136 149
 f 134 131 136
-usemtl (null)
+usemtl DarkTurquoise
 f 129 150 126
 f 126 150 131
 f 146 139 147
-usemtl RoyalBlue
 f 136 131 149
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 151 149 131
-usemtl SkyBlue
 f 131 150 151
-usemtl (null)
+usemtl DarkTurquoise
 f 148 147 152
-usemtl SkyBlue
+usemtl LightSteelBlue
 f 152 153 148
-usemtl (null)
+usemtl DarkTurquoise
 f 147 152 146
-usemtl RoyalBlue
+usemtl LightSteelBlue
 f 153 154 148
-usemtl (null)
+usemtl DarkTurquoise
 f 151 155 149
 f 156 151 129
 f 151 156 155
-f 149 148 155
-usemtl MediumOrchid
-f 157 155 148
 usemtl SkyBlue
+f 149 148 155
+usemtl LightSteelBlue
+f 157 155 148
+usemtl DarkTurquoise
 f 156 157 155
-usemtl MediumOrchid
+usemtl SkyBlue
 f 148 154 157
-usemtl RoyalBlue
+usemtl LightSteelBlue
 f 154 158 157
 usemtl SkyBlue
 f 159 158 154
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 160 159 154
-usemtl (null)
+usemtl DarkTurquoise
 f 154 153 160
+usemtl LightSteelBlue
 f 160 161 159
+usemtl DarkTurquoise
 f 162 159 161
 f 163 162 161
+usemtl (null)
 f 162 163 164
 f 164 165 162
+usemtl DarkTurquoise
 f 162 165 159
+usemtl (null)
 f 159 165 158
 f 165 164 166
 f 165 167 158
+usemtl DarkTurquoise
 f 165 166 167
+usemtl (null)
 f 167 168 158
 f 158 168 157
 f 169 157 168
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 157 156 169
-usemtl (null)
+usemtl DarkTurquoise
 f 129 170 156
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 133 129 170
-usemtl (null)
 f 170 171 156
-usemtl RoyalBlue
+usemtl SkyBlue
 f 171 172 156
 f 173 169 156
-usemtl SkyBlue
 f 172 173 156
 usemtl (null)
 f 169 168 173
-usemtl RoyalBlue
+usemtl SkyBlue
 f 168 174 173
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 168 167 174
 usemtl (null)
 f 175 174 167
 f 167 166 175
-usemtl MediumOrchid
+usemtl LightSteelBlue
 f 176 173 174
 usemtl SkyBlue
 f 173 172 176
@@ -594,27 +599,31 @@ f 191 195 188
 f 192 195 191
 f 195 196 193
 f 193 196 194
+usemtl LightSteelBlue
 f 163 161 197
+usemtl (null)
 f 194 196 198
 f 182 181 186
 f 194 198 190
 f 196 195 198
 f 164 163 166
+usemtl DarkTurquoise
 f 199 122 124
+usemtl (null)
 f 124 180 199
+usemtl DarkTurquoise
 f 123 122 125
 f 130 128 127
-usemtl SkyBlue
+usemtl LightSteelBlue
 f 135 134 137
-usemtl RoyalBlue
 f 142 141 143
-usemtl (null)
+usemtl SkyBlue
 f 161 160 197
-usemtl MediumOrchid
 f 153 152 160
 f 146 152 145
-usemtl (null)
+usemtl DarkTurquoise
 f 151 150 129
+usemtl (null)
 f 200 201 202
 f 200 203 201
 f 200 204 203
@@ -649,14 +658,10 @@ f 106 208 100
 f 106 101 208
 f 208 88 100
 f 208 101 86
-usemtl RoyalBlue
+usemtl SkyBlue
 f 1 2 3 4
-usemtl MediumOrchid
 f 5 6 7 8
-usemtl RoyalBlue
 f 1 5 8 2
 f 2 8 7 3
-usemtl SkyBlue
 f 3 7 6 4
-usemtl RoyalBlue
 f 5 1 4 6
